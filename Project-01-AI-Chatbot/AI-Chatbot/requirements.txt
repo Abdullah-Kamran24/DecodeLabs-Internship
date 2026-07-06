@@ -1,0 +1,11 @@
+# Rule-Based AI Chatbot — Project 1
+#
+# This project uses ONLY the Python standard library
+# (re, random, logging, datetime, os, unittest).
+#
+# No external packages are required, so there is nothing to pip install.
+# This file is kept for two reasons:
+#   1. Convention — most Python projects expect a requirements.txt.
+#   2. Future-proofing — if you extend the bot (e.g. add colorama for
+#      colored terminal text, or an NLP library), list the new
+#      package(s) below and run:  pip install -r requirements.txt

@@ -1,0 +1,25 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Saved API key (created by the setup wizard) — NEVER commit this
+.secrets.json
+
+# Runtime logs (keep the folder, ignore generated log contents)
+logs/*.txt
+!logs/.gitkeep
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Editor / OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Test artifacts
+.pytest_cache/
